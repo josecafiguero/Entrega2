@@ -1,0 +1,11 @@
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\obj\Debug\netcoreapp2.0\SalasApp.csprojResolveAssemblyReference.cache
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\obj\Debug\netcoreapp2.0\SalasApp.csproj.CoreCompileInputs.cache
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\obj\Debug\netcoreapp2.0\SalasApp.AssemblyInfoInputs.cache
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\obj\Debug\netcoreapp2.0\SalasApp.AssemblyInfo.cs
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\bin\Debug\netcoreapp2.0\SalasApp.deps.json
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\bin\Debug\netcoreapp2.0\SalasApp.runtimeconfig.json
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\bin\Debug\netcoreapp2.0\SalasApp.runtimeconfig.dev.json
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\bin\Debug\netcoreapp2.0\SalasApp.dll
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\bin\Debug\netcoreapp2.0\SalasApp.pdb
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\obj\Debug\netcoreapp2.0\SalasApp.dll
+C:\Users\JoseCarlos\source\repos\SalasApp\SalasApp\obj\Debug\netcoreapp2.0\SalasApp.pdb
